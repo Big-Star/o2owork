@@ -1,0 +1,4 @@
+jdbc.driver=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://119.29.191.148:3306/otowork?useUnicode=true&characterEncoding=utf8
+jdbc.username=otowork
+jdbc.password=2018Work!

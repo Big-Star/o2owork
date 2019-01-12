@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="o2owork:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>o2owork</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="o2owork.war">
+      <element id="artifact" artifact-name="o2owork:war exploded" />
+    </root>
+  </artifact>
+</component>
